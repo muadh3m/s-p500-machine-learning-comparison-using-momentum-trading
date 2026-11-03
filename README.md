@@ -13,7 +13,7 @@ Six machine-learning models are compared:
 - Lasso Regression
 - Random Forest
 - Gradient Boosting
-- Multi-Layer Perceptron (MLP) Neural Network
+- Simple Multi-Layer Perceptron (MLP) Neural Network
 
 Performance is evaluated using cumulative return, Sharpe ratio, maximum drawdown and out-of-sample R².
 
