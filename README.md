@@ -64,6 +64,10 @@ The notebook is written in a research-paper format and contains:
 - Results analysis
 - Discussion and conclusions
 
+### `Scripts/`
+
+Contains the underlying Python implementation and project requirements used throughout the analysis, including data collection, feature engineering, model training, portfolio construction and performance evaluation.
+
 ### `Results/`
 
 Contains generated outputs from the analysis, including:
